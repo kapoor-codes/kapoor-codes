@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v4xsh" alt="v4xsh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kapoor_twts" target="blank"><img src="https://img.shields.io/twitter/follow/v4xsh?logo=twitter&style=for-the-badge" alt="v4xsh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kapoor_twts" target="blank"><img src="https://img.shields.io/twitter/follow/v4xsh?logo=twitter&style=for-the-badge" alt="kapoor_twts" /></a> </p>
 
 - 🔭 I’m currently working on [React-play](https://github.com/reactplay/react-play/)
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/v4nsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="v4nsh" height="30" width="40" /></a>
-<a href="https://twitter.com/v4xsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v4xsh" height="30" width="40" /></a>
+<a href="https://twitter.com/kapoor_twts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kapoor_twts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vansh-kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh-kapoor" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/v4nshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="v4nshh" height="30" width="40" /></a>
 </p>
