@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v4xsh" alt="v4xsh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/v4xsh" target="blank"><img src="https://img.shields.io/twitter/follow/v4xsh?logo=twitter&style=for-the-badge" alt="v4xsh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kapoor_twts" target="blank"><img src="https://img.shields.io/twitter/follow/v4xsh?logo=twitter&style=for-the-badge" alt="v4xsh" /></a> </p>
 
 - 🔭 I’m currently working on [React-play](https://github.com/reactplay/react-play/)
 
